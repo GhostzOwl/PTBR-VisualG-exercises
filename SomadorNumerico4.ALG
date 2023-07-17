@@ -1,17 +1,17 @@
-Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+Algoritmo "SomaNumerica"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Gustavo Guanabara
 // Data atual  : 06/07/2023
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 
    Cont, S, N: inteiro
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc..
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc..
    S <- 0
    Cont <- 1
    Escreval ("===================")
-   Escreval ("Somador Númerico bzz")
+   Escreval ("Somador NÃºmerico bzz")
    Escreval ("===================")
    //
    enquanto (cont <= 5) faca
@@ -20,5 +20,5 @@ Inicio
       S <- S + n
       cont <- cont + 1
    fimenquanto
-   Escreval ("A soma de todos os números é", S)
+   Escreval ("A soma de todos os nÃºmeros Ã©", S)
 Fimalgoritmo
